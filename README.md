@@ -5,7 +5,7 @@ A simple module to get alphanumeric strings.
 # npm install eil-random-string-module --save
 
 ## HOW TO USE
-var random = require('eil-random-string-module);
+var random = require('eil-random-string-module');
 
 ```javascript 
 ## METHOD 
