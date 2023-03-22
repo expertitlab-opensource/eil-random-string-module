@@ -1,0 +1,25 @@
+{
+  "name": "eil-random-string-module",
+  "version": "0.10.0",
+  "description": "A simple module to get alphanumeric strings",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/expertitlab-opensource/eil-random-string-module.git"
+  },
+  "keywords": [
+    "string",
+    "characters",
+    "crypto",
+    "expertitlab"
+  ],
+  "author": "Expert It Lab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/expertitlab-opensource/eil-random-string-module/issues"
+  },
+  "homepage": "https://github.com/expertitlab-opensource/eil-random-string-module#readme"
+}
